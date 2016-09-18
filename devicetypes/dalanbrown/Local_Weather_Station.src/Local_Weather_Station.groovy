@@ -20,7 +20,7 @@
  import java.net.URI
 
 metadata {
-	definition (name: "Local Weather Station", namespace: "dalanbrown", author: "Alan Brown") {
+	definition (name: "Local_Weather_Station", namespace: "dalanbrown", author: "Alan Brown") {
 		capability "Temperature Measurement"
 		capability "Relative Humidity Measurement"
 		capability "Sensor"

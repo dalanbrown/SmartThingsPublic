@@ -23,7 +23,9 @@ metadata {
 		fingerprint mfr:"0063", prod:"4952", deviceJoinName: "Z-Wave Wall Switch"
 		fingerprint mfr:"0063", prod:"5257", deviceJoinName: "Z-Wave Wall Switch"
 		fingerprint mfr:"0063", prod:"5052", deviceJoinName: "Z-Wave Plug-In Switch"
+		fingerprint mfr:"0063", prod:"5252", deviceJoinName: "Z-Wave Plug-In Switch"
 		fingerprint mfr:"0113", prod:"5257", deviceJoinName: "Z-Wave Wall Switch"
+		fingerprint mfr:"0184", prod:"4447", deviceJoinName: "Z-Wave Wall Switch"
 	}
 
 	// simulator metadata
